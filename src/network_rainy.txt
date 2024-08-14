@@ -1,0 +1,21 @@
+"plant"	"season"	"eois_sp1"	"eois_sp2"	"quadrus_sp"	"heraclides_sp"	"geometridae_sp1"	"geometridae_sp2"	"geometridae_sp3"	"geometridae_sp4"	"geometridae_sp5"	"geometridae_sp6"	"geometridae_sp7"	"geometridae_sp8"	"gonodonta_sp1"	"arctiinae_sp1"	"arctiinae_sp2"	"caterpillar_sp1"	"caterpillar_sp2"	"memphis_sp"
+"48"	"1"	"rainy"	0	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+"49"	"12"	"rainy"	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"50"	"13"	"rainy"	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+"51"	"15"	"rainy"	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+"52"	"23"	"rainy"	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"53"	"26B"	"rainy"	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"54"	"28"	"rainy"	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"55"	"2B"	"rainy"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"56"	"31"	"rainy"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"57"	"32"	"rainy"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"58"	"40"	"rainy"	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+"59"	"41"	"rainy"	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"60"	"45"	"rainy"	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+"61"	"47"	"rainy"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"62"	"58"	"rainy"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"63"	"61"	"rainy"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"64"	"6B"	"rainy"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"65"	"7"	"rainy"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"66"	"74"	"rainy"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+"67"	"89"	"rainy"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0
