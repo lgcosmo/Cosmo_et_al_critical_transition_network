@@ -11,7 +11,7 @@ Cosmo_et_al_critical_transition_network
 
 Leandro G. Cosmo: Programa de Pós-Graduação em Ecologia, Departamento de Ecologia, Instituto de Biociências, Universidade de São Paulo, São Paulo, Brazil / Department of Evolutionary Biology and Environmental Studies, University of Zurich, Winterthurerstrasse 190, Zurich CH-8057, Switzerland
 
-Kate P. Maia: Paulo R. Guimaraes Jr.: Departamento de Ecologia, Instituto de Biociências, Universidade de São Paulo, São Paulo, Brazil.
+Kate P. Maia: Departamento de Ecologia, Instituto de Biociências, Universidade de São Paulo, São Paulo, Brazil.
 
 Paulo R. Guimaraes Jr.: Departamento de Ecologia, Instituto de Biociências, Universidade de São Paulo, São Paulo, Brazil.
 
