@@ -27,6 +27,22 @@ DATA & FILE OVERVIEW
 
 1. File List: 
 
-Data files:
+Functions:
 
-Scripts/Source functions:
+criteria.R: Function to compute the connectivity parameter as defined in the main text (equation 1).
+
+katz_function: Function to compute the number of direct and indirect pathways in the network, as defined in the main text (equation 3).
+
+summarySE: Function to compute summary statistics.
+
+Datasets:
+
+network_dry.txt/network_rainy.txt: Matrix of interactions between plant individuals (rows) and herbivore species (columns) at the dry and rainy seasons of the study site, respectively. Each entry of the matrix corresponds to the abundance of a given herbivore species found feeding on a given plant individual.
+
+plant_dataset.csv: Dataset containing information of each plant individual used on the study for the following variables. (1) Identification of the plant individual (plant); (2) season of data collection (season); (3) percentage of leaf damaged (herbivory); (4) structural phytochemical diversity, as defined in the main text (structural_pd); and (5) compositional phytochemical diversity, as defined in the main text (compositional_pd).
+
+Scripts:
+
+script_main_analyses.R: Script used to perform the main analyses in the main text and to plot figures 2-4.
+
+script_sensitivity_analysis_bootstrap.R: Script used to perform the sensitivity analysis as defined in the Supplementary Information.
