@@ -17,6 +17,7 @@ library(patchwork)
 library(expm)
 library(visreg)
 library(jtools)
+library(here)
 
 # Loading functions
 source(here("src", "species_metrics.R"))
@@ -26,7 +27,7 @@ source(here("src", "summarySE.R"))
 
 net_dry<-read.table(here("src", "network_dry.txt"), header=TRUE)
 net_rainy<-read.table(here("src", "network_rainy.txt"), header=TRUE)
-data<-read.table(here("src", "plant_dataset.txt"), header=TRUE)
+data<-fread(here("src", "plant_dataset.csv"), header=TRUE)
 
 inc_dry<-as.matrix(net_dry[,3:20])
 inc_rainy<-as.matrix(net_rainy[,3:20])
