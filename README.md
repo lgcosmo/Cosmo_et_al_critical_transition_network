@@ -1,4 +1,5 @@
-# Critical transition in the structure of an ecological network
+# Phytochemical diversity and seasonality drive a critical transition in the structure of a plant-herbivore network
+
 This README file was generated on 14.08.2024 by Leandro Giacobelli Cosmo
 
 GENERAL INFORMATION
