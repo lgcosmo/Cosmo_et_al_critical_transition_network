@@ -1,5 +1,7 @@
 # Phytochemical diversity and seasonality are associated with a critical transition in plant-herbivore network structure
 
+[![DOI](https://zenodo.org/badge/842535060.svg)](https://doi.org/10.5281/zenodo.17236448)
+
 This README file was generated on 14.08.2024 by Leandro Giacobelli Cosmo
 
 GENERAL INFORMATION
