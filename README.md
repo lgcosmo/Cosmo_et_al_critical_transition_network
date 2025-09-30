@@ -1,4 +1,4 @@
-# Phytochemical diversity and seasonality drive a critical transition in the structure of a plant-herbivore network
+# Phytochemical diversity and seasonality are associated with a critical transition in plant-herbivore network structure
 
 This README file was generated on 14.08.2024 by Leandro Giacobelli Cosmo
 
